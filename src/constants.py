@@ -1,0 +1,5 @@
+NUM_CLASSES = {'ISLD': 18,}
+
+MAX_SEQ_LEN = {'ISLD': 244,}
+
+NUM_FEATURES = {'ISLD': 28,}
